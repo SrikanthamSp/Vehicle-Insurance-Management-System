@@ -1,1 +1,3 @@
-# Vehicle-Insurance-Management-System
+# Vehicle-Insurance-Management-System <br>
+
+Our proposed project aims to build and manage a database that can be very beneficial for an insurance company. The insurance company needs to keep track of all the details of its target companies, agents, policyholders, their premium payments and the various products they offer. In the project, we intend to use the concepts involved in handling the data acquired from insurance companies, agents, and employees using MySQL and PHP. The database will include multiple tables which will be managed efficiently. Some functions will run which would classify the policies based on their status that whether they are active, lapsed, matured, etc. According to those classifications, different tables are created in database and according to functions, records are grouped in respective tables.
